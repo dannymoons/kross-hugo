@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "info@danny@hulpmetmarketing.nl"
 google_analytics_id = ""
 home = "Home"
-logo = "/images/Hoger-in-Google-door-Hulp-Met-Marketing-logo.png"
+logo = "/images/Hoger in Google door Hulp Met Marketing - logo.png"
 phone = "0628509910"
 theme_color = "#41228e"
 [params.contact]
