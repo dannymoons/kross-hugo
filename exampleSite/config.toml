@@ -1,4 +1,4 @@
-baseURL = "https://muziekfiets.netlify.com"
+baseURL = "https://dannymoons.netlify.com"
 languageCode = "nl"
 summaryLength = "10"
 theme = "kross-hugo"
