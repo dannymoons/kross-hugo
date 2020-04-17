@@ -2,7 +2,7 @@ baseURL = "https://dannymoons.netlify.com"
 languageCode = "nl"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Danny Moons"
 [[menu.main]]
 URL = "about"
 name = "About"
