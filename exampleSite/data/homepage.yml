@@ -13,19 +13,19 @@ about:
     label: Maak kennis
     URL: about
 skill:
-  enable: false
+  enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Webdesign
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Search Engine Optimization
+    progress: 85%
     color: "#9473e6"
-  - title: After Effects
+  - title: UX Design
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
+  - title: Data analytics
     progress: 70%
     color: "#ffbcaa"
 experience:
