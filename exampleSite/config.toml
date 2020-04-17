@@ -5,16 +5,16 @@ theme = "kross-hugo"
 title = "Danny Moons"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Over ons"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 4
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
