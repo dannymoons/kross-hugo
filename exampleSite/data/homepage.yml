@@ -10,7 +10,7 @@ about:
     fugiat nulla pariatur.
   button:
     enable: true
-    label: Meer weten?
+    label: Maak kennis
     URL: about
 skill:
   enable: false
